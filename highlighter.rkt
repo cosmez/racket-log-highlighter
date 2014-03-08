@@ -47,7 +47,6 @@
   (displayln html)
   `(li (a ((href ,html))  ,html)))
 
-;(highlighter "log2.txt")
 (~> `(html 
       (head (title "#racket freenode logs")
             (link ((rel "stylesheet") (type "text/css") (href "style.css"))))
