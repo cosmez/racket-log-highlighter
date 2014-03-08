@@ -1,0 +1,7 @@
+body { font-family: courier; font-size: 14px;}
+.message { display: block; }
+.me { display: block;  }
+.notice { display: block; color: #999999;  }
+.nick { font-weight: bold; }
+.status { color: #555555; }
+.time a { text-decoration: none; color: #63ACFF;}
