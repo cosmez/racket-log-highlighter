@@ -1,6 +1,6 @@
 #lang rackjure
 ;;; Simple IRC Log Highlighter
-;;; output example: https://dl.dropboxusercontent.com/u/18071353/racket-logs/racket-logs.html
+;;; output: https://dl.dropboxusercontent.com/u/18071353/racket-logs/racket-logs.html
 (require xml net/url)
 (define *logs-url* "http://racket-lang.org/irc-logs/racket/")
 
